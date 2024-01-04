@@ -20,7 +20,7 @@
     <nav class="navbar navbar-expand-lg navbar-light"> 
         <div class="container-fluid"> 
         <a class="navbar-brand" href="#"> 
-         <img src="img/sn skynet 3d png.png"style="width:300;height: 140px;border-radius: %;">
+         <img src="sn skynet 3d png.png"style="width:300;height: 140px;border-radius: %;">
                </a> 
 
             <div class="col-md-4">
